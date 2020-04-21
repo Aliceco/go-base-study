@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="ce4d31b3-926d-4218-a62f-a14caf62d0b3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appmain/files/1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appmain/files/2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appmain/files/3" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/appmain/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/appmain/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,10 +86,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1587437707339" />
-    <state x="530" y="202" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587438913394">
+    <state x="530" y="202" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587452470494">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="530" y="202" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1587438913394" />
+    <state x="530" y="202" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1587452470494" />
     <state x="472" y="44" key="#go_build_basePkg" timestamp="1587437664173">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -99,5 +102,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1587437706158" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1587451612212">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1587451612212" />
   </component>
 </project>

@@ -1,0 +1,1365 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <meta name="referrer" content="always"/>
+    <title>新闻列表 - 第6页 - IT新闻 - 博客园</title>
+    <meta name="keywords" content="IT新闻,it news,互联网新闻,业界新闻,IT资讯,IT业界,新闻频道"/>
+    <meta name="description">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <link id="rsslink" title="rss" type="application/rss+xml" rel="alternate" href="http://feed.cnblogs.com/news/rss"/>
+    <link rel="shortcut icon" href="//common.cnblogs.com/favicon.ico"/>
+    <link rel="stylesheet" href="/Content/bundles/news.css?v=cuCwtDU8u3qMQmdg4FqdpiGm8kE_bdPAC8dwp2ZqiZ4" />
+    <link rel="stylesheet" type="text/css" href="//mention.cnblogs.com/css/mention-simple.css?id=20160613">
+    <link id="smallScreen" rel="stylesheet" type="text/css" media="screen and (max-width:768px)" href="/Content/smallScreen.css?v=GlO31drTET0WWWUZP_UBq7R7fDulVJecCIbanv3sLyM" />
+    <script type="text/javascript" src="/Scripts/jquery.min.js"></script>
+    <script type="text/javascript" src="/Scripts/bundles/news.js?v=ra6TE00ZTaEbDhcDLBrRySGLYAAli0cqCkygOMif37A"></script>
+    <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+    <script>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+    </script>
+    <script>
+        googletag.cmd.push(function () {
+            googletag.defineSlot('/1090369/news_E1', [728, 90], 'div-gpt-ad-1533633736227-0').addService(googletag.pubads());
+            googletag.defineSlot('/1090369/news_E2', [300, 250], 'div-gpt-ad-1533633736227-1').addService(googletag.pubads());
+            googletag.defineSlot('/1090369/news_E3', [300, 250], 'div-gpt-ad-1533633736227-2').addService(googletag.pubads());
+            googletag.defineSlot('/1090369/news_E4', [468, 60], 'div-gpt-ad-1533633736227-3').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.enableServices();
+        });
+    </script>
+</head>
+<body>
+    <a name="top"></a>
+    <div id="wrap">
+        <div id="header">
+            <a name="top"></a>
+            <div id="wrapper_top_block">
+                <div id="login_area">
+                </div>
+                <div id="top_mini_nav_block">&laquo; <a href="//www.cnblogs.com" class="dark_gray" title="程序员的网上家园">网站首页</a> <a href="http://zzk.cnblogs.com/" class="dark_gray">找找看</a></div>
+                <div class="clear"></div>
+            </div>
+        </div>
+    </div>
+    <div id="main_wrapper">
+        <div id="main_header">
+            <div class="header_div">
+                <div class="logo">
+                    <a href="//www.cnblogs.com">
+                        <img src="/Images/logo.gif" alt="logo"/>
+                    </a>
+                </div>
+                <div class="banner">
+                    <div id="clubHeader_panelNews">
+                        <div id="e1">
+                            <div id="div-gpt-ad-1533633736227-0" style="height:90px; width:728px;">
+                                <script>
+                                    googletag.cmd.push(function () { googletag.display('div-gpt-ad-1533633736227-0'); });
+                                </script>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="mainmenu">
+                <div class="feedback_block">
+                    <a href="//group.cnblogs.com/forum/public/">反馈问题或建议</a>
+                </div>
+                <ul id="navlist_main">
+                    <li style="margin-left:20px;">
+                        <a href="//www.cnblogs.com">首页</a>
+                    </li>
+                    <li>
+                        <a href="//home.cnblogs.com">园子</a>
+                    </li>
+                    <li>
+                    </li>
+                    <li id="clubHeader_liNews">
+                        <a id="clubHeader_lnkNews" title="IT新闻" class="current" href="/">新 闻</a>
+                    </li>
+                    <li>
+                        <a id="clubHeader_lkQuestionMenu" href="//q.cnblogs.com/">博问</a>
+                    </li>
+                    <li>
+                    </li>
+                    <li>
+                        <a id="clubHeader_lkIngMenu" href="//ing.cnblogs.com/">闪存</a>
+                    </li>
+                    <li>
+                        <a id="clubHeader_lnkWz" href="//wz.cnblogs.com/">收藏</a>
+                    </li>
+                    <li>
+                        <a href="//job.cnblogs.com">招聘</a>
+                    </li>
+                    <li>
+                        <a href="//kb.cnblogs.com">知识库</a>
+                    </li>
+                    <li id="clubHeader_liMyMessage">
+                    </li>
+                </ul>
+            </div>
+            <script type="text/javascript">
+                if (typeof (jQuery) != 'undefined') {
+                    GetUserInfo();
+                }
+            </script>
+        </div>
+        <div id="sideleft">
+    <div id="guide" style="display:none;">
+        <h3>
+            <a href="//www.cnblogs.com" title="程序员的网上家园">博客园</a> » <a href="/" title="IT新闻">新闻</a><span id="lbMobileAuditTips" style="display:none;"></span>
+        </h3>
+    </div>
+    <div id="navcontainer" class="floatright" style="padding-top: 1px;">
+        <ul id="navlist">
+            <li>
+                <a href="/" class="current">最新发布</a>
+            </li>
+            <li>
+                <a href="/n/recommend">推荐新闻</a>
+            </li>
+            <li>
+                <a href="/n/digg">热门新闻</a>
+            </li>
+            <li>
+                <a href="/n/comment">新闻评论</a>
+            </li>
+        </ul>
+    </div>
+    <div class="clear">
+    </div>
+    <div id="news_list">
+            <div class="news_block" id="entry_660098">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(660098,'agree')">
+                        <span id="digg_num_660098" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_660098" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/660098/" target="_blank">面向中小企业开放全部能力，支付宝“开放联盟链”想讲什么样的故事？</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_131.htm"><img src="https://img2018.cnblogs.com/news_topic/20190919211901993-1718488031.png" class="topic_img" alt=""/></a>
+                        2019 年 6 月下旬，纯白矩阵创始人吴啸带领自己的团队推出了全球首个集成 Move 语言的集成开发环境（IDE）工具，ChainIDE（链得得注：Move 是 Facebook 为 Libra 项目推出的全新编程语言）。吴啸开发的 ChainIDE 可以在 3 分钟内可以写出自己的 Move 程
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/660098#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">172 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E6%94%AF%E4%BB%98%E5%AE%9D/" class="gray">支付宝</a> </span>
+                        发布于 <span class="gray">2020-04-19 20:22</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_660099">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(660099,'agree')">
+                        <span id="digg_num_660099" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_660099" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/660099/" target="_blank">拼多多认购国美零售2亿美元可转债 国美全量商品上架拼多多</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_954.htm"><img src="https://img2018.cnblogs.com/news_topic/20191025103959218-252635758.png" class="topic_img" alt=""/></a>
+                        腾讯新闻《一线》 方砚 4 月 19 日消息，拼多多今日宣布，将认购国美零售发行的 2 亿美元可转债，期限三年，票面年利率为5%。 如最终全部行使转换权，拼多多将最多获配 12.8 亿股国美新股份，约占后者发行转换股份扩大后股本的 5.62%。 同时，双方宣布达成全面战略合作，国美零售全量商品将上架
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/660099#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">142 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E6%8B%BC%E5%A4%9A%E5%A4%9A/" class="gray">拼多多</a> </span>
+                        发布于 <span class="gray">2020-04-19 20:14</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_660095">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(660095,'agree')">
+                        <span id="digg_num_660095" class="diggnum">2</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_660095" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/660095/" target="_blank">互联网“社畜”鄙视链</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_132.htm"><img src="//images0.cnblogs.com/news_topic/ITblog.jpg" class="topic_img" alt=""/></a>
+                        图片来源@视觉中国 文表外表里（ID：excel-ers），作者周霄、刘谧（高级研究员），编辑 Reno，数据支持洞见数据研究院 都说互联网是高薪产业，在用“脑子”赚“票子”。一批又一批年轻人通过层层选拔，经历三面、四面才能入这些大名鼎鼎的互联网集团。 然而，比起拿到 offer 时的喜大普奔，这些
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/660095#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">316 人浏览</span>
+                        
+                        发布于 <span class="gray">2020-04-19 20:09</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_660094">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(660094,'agree')">
+                        <span id="digg_num_660094" class="diggnum">1</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_660094" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/660094/" target="_blank">Zoom：一只缺钙的纸老虎</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1389.htm"><img src="https://img2018.cnblogs.com/news_topic/20190327093101932-1819544169.png" class="topic_img" alt=""/></a>
+                        图片来源@视觉中国 文航通社，作者书航 最近航通社出深度稿的进度越来越慢了，当文章终于定稿的时候，很多新闻都成了“旧闻”。但社长相信，经过较长时间思考、整理和收集新的事实，所得出的结论一定好于匆忙之中的急就章。 今天我们来说说 Zoom。当国内疫情发展趋于平缓，美国成为新的“震中”的时候，属于它的高
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/660094#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">251 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/Zoom/" class="gray">Zoom</a> </span>
+                        发布于 <span class="gray">2020-04-19 20:00</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_660093">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(660093,'agree')">
+                        <span id="digg_num_660093" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_660093" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/660093/" target="_blank">陆金所转型之路：去年末贷款余额4600亿，消金对接“P2P版”信托</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_636.htm"><img src="//images2015.cnblogs.com/news_topic/20170616155033337-2116199623.png" class="topic_img" alt=""/></a>
+                        文消金界 近日，消金界了解到，前期平安消费金融的筹备工作基本已完成，高管大多来自平安普惠和陆金所。 此外，平安消金将提供纯线上的贷款产品，这也秉承了平安集团一直以来的“金融科技”基因。 至此，陆金所已经由曾经最大的 P2P 网贷平台，逐步转化为包括财富管理和个人借款在内的综合性金融服务平台，旗下包括
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/660093#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">219 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E9%99%86%E9%87%91%E6%89%80/" class="gray">陆金所</a> </span>
+                        发布于 <span class="gray">2020-04-19 17:26</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_660092">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(660092,'agree')">
+                        <span id="digg_num_660092" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_660092" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/660092/" target="_blank">资本动物世界里的「做空」简史</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_132.htm"><img src="//images0.cnblogs.com/news_topic/ITblog.jpg" class="topic_img" alt=""/></a>
+                        摘要 浑水们的生意看起来龌龊，但对资本市场也并非全无价值。它们是资本生物圈里招人讨厌的昆虫，但也有自己存在的逻辑。 因为瑞幸「自爆」财务造假，整个中概股集体爆雷，连带遭灾。之后又有其他做空机构将矛头指向爱奇艺、好未来等公司，双方似乎陷入了一种「指证」与「辩解」的复杂纠葛中。 瑞幸的丑闻给了商业领域一
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/660092#comment" class="gray" target="_blank">评论(2)</a>
+                        </span><span class="view">212 人浏览</span>
+                        
+                        发布于 <span class="gray">2020-04-19 17:21</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_660091">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(660091,'agree')">
+                        <span id="digg_num_660091" class="diggnum">1</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_660091" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/660091/" target="_blank">微软发布可每日更换必应壁纸的官方应用</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_2.htm"><img src="https://img2018.cnblogs.com/news_topic/20200115105457739-1483150216.png" class="topic_img" alt=""/></a>
+                        微软旗下必应（Bing）搜索引擎的一大特色，就是主页上每日呈现的精美壁纸。如果你很想将它自动同步地设置成 Windows 10 操作系统的桌面壁纸，那不妨考虑下该公司新推出的官方应用。简而言之，这款程序能够解放粉丝们的双手，从此告别必须亲自浏览必应主页来收集壁纸的烦恼。 这款程序也可以说是“千呼万唤
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/660091#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">309 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E5%BE%AE%E8%BD%AF/" class="gray">微软</a> </span>
+                        发布于 <span class="gray">2020-04-19 17:18</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_660090">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(660090,'agree')">
+                        <span id="digg_num_660090" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_660090" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/660090/" target="_blank">MIT的机器学习算法认为社会隔离措施是有效的</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_778.htm"><img src="//images2015.cnblogs.com/news_topic/20161215114738698-1054154203.png" class="topic_img" alt=""/></a>
+                        大部分 Covid-19 预测是基于过去的疫情如 SARS 或 MERS 的数据。现在 MIT 的一群工程师开发了一个机器学习模型，使用 Covid-19 疫情数据和神经网络去判断隔离措施的有效性，更好的预测病毒传播。研究报告发表在预印本网站上。 预测传染病扩散的绝大部分模型被称为 SEIR，将人群
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/660090#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">111 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/MIT/" class="gray">MIT</a> </span>
+                        发布于 <span class="gray">2020-04-19 17:15</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_660089">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(660089,'agree')">
+                        <span id="digg_num_660089" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_660089" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/660089/" target="_blank">ICANN 再次推迟 .org 顶级域交易决定</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        
+                        ICANN&#160;再次推迟 .Org 交易的决定。它原定于本周决定是否批准 Internet Society（ISOC）将 .org 域名管理机构 Public Internet Registry（PIR）出售给私募股权公司 Ethos Capital 的 11.3 亿美元交易。 这笔交易引发了广泛关注，
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/660089#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">100 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/ICANN/" class="gray">ICANN</a> </span>
+                        发布于 <span class="gray">2020-04-19 17:14</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_660080">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(660080,'agree')">
+                        <span id="digg_num_660080" class="diggnum">7</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_660080" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/660080/" target="_blank">小米开源 Redmi Note 8 Pro 和 Note 9 Pro 系列的内核源码</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_368.htm"><img src="//images0.cnblogs.com/news_topic/小米.gif" class="topic_img" alt=""/></a>
+                        小米开源了基于 Android Q 的 Redmi Note 8 Pro（代号 begonia） 以及 Redmi Note 9 Pro/Note 9 Pro Max（代号 curtana） 的内核源码。 &gt;&gt;&gt;&#160;Redmi Note 9 Pro/Note 9 Pro Max 内核源码 &gt;&gt;&gt;&#160;Re
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/660080#comment" class="gray" target="_blank">评论(17)</a>
+                        </span><span class="view">2195 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E5%B0%8F%E7%B1%B3/" class="gray">小米</a> </span>
+                        发布于 <span class="gray">2020-04-19 17:09</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_660088">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(660088,'agree')">
+                        <span id="digg_num_660088" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_660088" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/660088/" target="_blank">吉利要造火箭？副总裁杨学良：属实 招火箭总师</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_978.htm"><img src="//images2017.cnblogs.com/news_topic/20170808082841471-599276357.png" class="topic_img" alt=""/></a>
+                        新京报讯 4 月 17 日，有消息称“吉利科技集团下属公司浙江时空道宇科技有限公司（下称时空道宇）招聘火箭总工程师”。对此，吉利汽车集团副总裁杨学良在其微博表示“招火箭总师，欢迎报名。”4 月 17 日晚，吉利汽车集团副总裁杨学良向新京报记者证实招聘消息属实。 事实上，吉利在航天领域早已布局。今年 
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/660088#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">678 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E5%90%89%E5%88%A9/" class="gray">吉利</a> </span>
+                        发布于 <span class="gray">2020-04-19 11:27</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_660087">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(660087,'agree')">
+                        <span id="digg_num_660087" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_660087" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/660087/" target="_blank">马云：花钱比挣钱难 任何人不能彻底摆脱互联网</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_193.htm"><img src="https://img2018.cnblogs.com/news_topic/20190625143954383-2009409872.png" class="topic_img" alt=""/></a>
+                        4 月 17 日晚，央视《1+1》栏目主持人白岩松连线马云，就疫情暴发以来马云以及阿里巴巴集团向全世界多个国家和地区捐赠抗疫物资进行专访。 在向全球支援抗疫物资方面，就白岩松“如何去选择支援哪些国家？”的问题，马云表示，武汉出事以来，国家动用很大力量帮助武汉，这种事不能在世界其他地方再次发生。且中国
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/660087#comment" class="gray" target="_blank">评论(2)</a>
+                        </span><span class="view">379 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E9%A9%AC%E4%BA%91/" class="gray">马云</a> </span>
+                        发布于 <span class="gray">2020-04-19 11:26</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_660086">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(660086,'agree')">
+                        <span id="digg_num_660086" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_660086" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/660086/" target="_blank">弹个车回应用户购车后反被索赔事件：用户严重逾期且未结清尾款</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1387.htm"><img src="https://img2018.cnblogs.com/news_topic/20190321123940698-1237253801.png" class="topic_img" alt=""/></a>
+                        4 月 18 日消息，针对此前媒体报道用户投诉弹个车“支付 12 万却钱车两空、反被索赔 9 万”一事，弹个车今日晚间作出回应，称报道中用户说法与事实严重不符，该用户以融资租赁方式购买车辆，但此后严重逾期，且在融资租赁期满后未结清尾款，故平台按合同约定自主收车，并不存在“偷车”情形。 此前，据媒体报
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/660086#comment" class="gray" target="_blank">评论(1)</a>
+                        </span><span class="view">279 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E5%BC%B9%E4%B8%AA%E8%BD%A6/" class="gray">弹个车</a> </span>
+                        发布于 <span class="gray">2020-04-19 11:24</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_660085">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(660085,'agree')">
+                        <span id="digg_num_660085" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_660085" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/660085/" target="_blank">互联网女皇报告：科技赋能减轻疫情对经济影响</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        
+                        新冠疫情重塑了经济活动、消费者行为以及科学技术的重要性。拥有强大的互联网线上线下融合能力的企业在疫情中的表现最好。互联网女皇玛丽&#183;米克（Mary Meeker）4 月 17 日发布了其著名的年度互联网趋势报告，在详细分析了新冠疫情对行业的影响后，米克得出结论，拥有强大的互联网线上线下融合能力的企业在
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/660085#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">123 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E4%BA%92%E8%81%94%E7%BD%91%E5%A5%B3%E7%9A%87/" class="gray">互联网女皇</a> </span>
+                        发布于 <span class="gray">2020-04-19 11:23</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_660084">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(660084,'agree')">
+                        <span id="digg_num_660084" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_660084" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/660084/" target="_blank">拼多多起诉拼兜兜 后者构成不正当竞争被判赔70万元</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_954.htm"><img src="https://img2018.cnblogs.com/news_topic/20191025103959218-252635758.png" class="topic_img" alt=""/></a>
+                        据上海徐汇法院官方消息，日前徐汇法院对一起侵害商标权及不正当竞争案作出判决，认定被告“拼兜兜”运营公司构成侵权和不正当竞争，赔偿原告 70 万元。“拼多多”运营公司于 2014 年成立，2017 年 11 月 7 日注册“拼多多”标识，凭借积极运营和宣传累积大量用户，收获诸多荣誉，在拼团类购物平台中
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/660084#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">397 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E6%8B%BC%E5%A4%9A%E5%A4%9A/" class="gray">拼多多</a> </span>
+                        发布于 <span class="gray">2020-04-19 11:23</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_660083">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(660083,'agree')">
+                        <span id="digg_num_660083" class="diggnum">18</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_660083" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/660083/" target="_blank">《微软飞行模拟》新截图公布 展示环境、城市和飞行器</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_2.htm"><img src="https://img2018.cnblogs.com/news_topic/20200115105457739-1483150216.png" class="topic_img" alt=""/></a>
+                        《微软飞行模拟》一批新截图公开，截图来自于游戏的 Alpha 版本，展示了游戏的环境，城市和飞行载具。另外也展示了游戏内的体积云以及太阳光照效果。《微软飞行模拟》是新一代最受喜爱的模拟游戏之一。从轻型飞机到广体喷射机，在极为逼真的环境中驾驶内部最精细、外型最出众的飞机。 建立自己的飞航计划，飞遍全世
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/660083#comment" class="gray" target="_blank">评论(1)</a>
+                        </span><span class="view">911 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E5%BE%AE%E8%BD%AF/" class="gray">微软</a> </span>
+                        发布于 <span class="gray">2020-04-19 11:22</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_660082">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(660082,'agree')">
+                        <span id="digg_num_660082" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_660082" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/660082/" target="_blank">微信开通“医保码直通车” 搜一搜即可用</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_372.htm"><img src="https://img2018.cnblogs.com/news_topic/20191011113837921-1266267629.png" class="topic_img" alt=""/></a>
+                        上个月，医保电子凭证在全国上线，13.5 亿参保人都可以在微信上激活。未来看病、买药无需再带卡，手机刷码就可以进行医保支付了。此前使用医保码操作流程比较复杂，微信今天宣布开通了医保码直通车，只需“搜一搜”就到了。 如果没激活医保电子凭证，可以搜索“医保码”前往激活。激活医保电子凭证后，微信搜一搜“医
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/660082#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">134 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E5%BE%AE%E4%BF%A1/" class="gray">微信</a> </span>
+                        发布于 <span class="gray">2020-04-19 11:21</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_660081">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(660081,'agree')">
+                        <span id="digg_num_660081" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_660081" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/660081/" target="_blank">科研人员开发“新纳米探针” 有助研究神经活动</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_319.htm"><img src="https://img2018.cnblogs.com/news_topic/20181019121101783-952728829.gif" class="topic_img" alt=""/></a>
+                        《科学进展》期刊 18 日在线发表了题为《高灵敏和特异的纳米探针用于近红外钾离子成像》的研究论文，报道了中国科学院脑科学与智能技术卓越创新中心(神经科学研究所)、上海脑科学与类脑研究中心、神经科学国家重点实验室杜久林研究组、熊志奇研究组与中国科学院上海硅酸盐研究所施剑林、步文博研究组的一项合作研究。
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/660081#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">43 人浏览</span>
+                        
+                        发布于 <span class="gray">2020-04-19 11:21</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_660079">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(660079,'agree')">
+                        <span id="digg_num_660079" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_660079" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/660079/" target="_blank">空客3000法国员工放假回家 下一步或裁员</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1517.htm"><img src="https://img2018.cnblogs.com/news_topic/20190722113016539-1553695276.jpg" class="topic_img" alt=""/></a>
+                        欧洲飞机制造商空客(Airbus SE)将在三个法国地点让大约 3000 名工作人员回家休假，而在应对当前新冠疫情经过延长的复活节停工之后，其位于英国的机翼工厂的员工准备复工。 空客一位发言人表示，在与工会达成协议后，该公司位于法国图卢兹（Toulouse）、南特（Nantes）和圣纳泽尔（Sain
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/660079#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">155 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E7%A9%BA%E5%AE%A2/" class="gray">空客</a> </span>
+                        发布于 <span class="gray">2020-04-19 11:20</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_660078">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(660078,'agree')">
+                        <span id="digg_num_660078" class="diggnum">1</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_660078" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/660078/" target="_blank">张大奕经得起“绯闻”，如涵经不起</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_132.htm"><img src="//images0.cnblogs.com/news_topic/ITblog.jpg" class="topic_img" alt=""/></a>
+                        虎嗅机动资讯组作品 作者胡展嘉 题图视觉中国 以一种意想不到的方式，张大奕重回热搜。今天午间（4 月 17 日），微博名为@花花董花花的博主（目前微博号已被删），直接开撕初代网红张大奕，称“这是第一次也是最后一次警告你，再来招惹我老公我就不客气了，老娘也不是好惹的。望自重，好自为之。”并在文末@了拥
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/660078#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">481 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%92%8B%E5%87%A1/" class="gray">蒋凡</a> <a href="/n/tag/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4/" class="gray">阿里巴巴</a> <a href="/n/tag/%E5%A6%82%E6%B6%B5/" class="gray">如涵</a> <a href="/n/tag/%E5%BC%A0%E5%A4%A7%E5%A5%95/" class="gray">张大奕</a> </span>
+                        发布于 <span class="gray">2020-04-19 11:17</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_660077">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(660077,'agree')">
+                        <span id="digg_num_660077" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_660077" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/660077/" target="_blank">青桔单车获超10亿美元融资 竞争格局已重构</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1552.htm"><img src="https://img2018.cnblogs.com/news_topic/20190814105744509-2029397564.png" class="topic_img" alt=""/></a>
+                        沉寂已久的共享单车领域又传来融资消息。日前有消息称，滴滴旗下共享单车品牌青桔单车获得超过 10 亿美元融资，这是共享单车领域在 2020 年获得的首笔融资，也是青桔单车的首轮融资，投资方为君联资本领投，另一家国外基金跟投。 君联资本向证券时报&#183;创业资本汇记者确认了投资一事。在资本的追逐下迅速膨胀，又
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/660077#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">134 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E9%9D%92%E6%A1%94%E5%8D%95%E8%BD%A6/" class="gray">青桔单车</a> </span>
+                        发布于 <span class="gray">2020-04-19 11:12</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_660076">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(660076,'agree')">
+                        <span id="digg_num_660076" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_660076" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/660076/" target="_blank">Netflix面向教师和学生开放10部教育纪录片</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_685.htm"><img src="//images2015.cnblogs.com/news_topic/20160216181257564-2107608963.png" class="topic_img" alt=""/></a>
+                        为了受疫情影响而宅家的教师和学生，Netflix 近日解锁了一些教育纪录片和剧集。本批开放的 10 部纪录片包括 Ava DuVernay 的《13 号》（13th）、自然纪录片《我们的星球》（Our Planet）以及《登堂入会》（Knock Down the House）以及《宝贝》（Babie
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/660076#comment" class="gray" target="_blank">评论(2)</a>
+                        </span><span class="view">102 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/Netflix/" class="gray">Netflix</a> </span>
+                        发布于 <span class="gray">2020-04-19 11:09</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_660075">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(660075,'agree')">
+                        <span id="digg_num_660075" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_660075" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/660075/" target="_blank">NVIDIA发布RTX Voice 一个AI驱动的音频降噪软件</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_217.htm"><img src="https://img2018.cnblogs.com/news_topic/20190801102552535-795219988.png" class="topic_img" alt=""/></a>
+                        RTX 显卡除了可以给你提供实时光追和 DLSS 等发挥在游戏图形上面的技术以外，还有其他特别的用处，比如说，NVIDIA 最近发布了一款 RTX Voice 的软件，它依靠 RTX 系列显卡的相关硬件能力，运用人工智能来对语音进行主动降噪。 目前的主动降噪技术大多都基于多麦克风同时采集环境噪音，然
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/660075#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">75 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/NVIDIA/" class="gray">NVIDIA</a> </span>
+                        发布于 <span class="gray">2020-04-19 11:09</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_660073">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(660073,'agree')">
+                        <span id="digg_num_660073" class="diggnum">1</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_660073" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/660073/" target="_blank">华为伸缩全面屏专利曝光：完美屏占比</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_188.htm"><img src="https://img2018.cnblogs.com/news_topic/20190730153501178-1904121953.png" class="topic_img" alt=""/></a>
+                        近日，有媒体从世界产权组织网站发现了一份华为全新专利，描述了一种全新类型的伸缩屏产品。从专利图片上看，这种产品看起来与目前的折叠屏十分相似，一整块屏幕分布在机身前后两侧，但在使用方式上却大为不同。 折叠屏是展开手机让前后屏幕处在同一平面上，而专利中的伸缩屏则是让手机一侧拉伸展开，背部屏幕徐徐扩展至正
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/660073#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">355 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E5%8D%8E%E4%B8%BA/" class="gray">华为</a> </span>
+                        发布于 <span class="gray">2020-04-19 11:07</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_660074">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(660074,'agree')">
+                        <span id="digg_num_660074" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_660074" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/660074/" target="_blank">苹果公司在官网分享关于如何制作面部防护罩的新文档</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_82.htm"><img src="https://img2018.cnblogs.com/news_topic/20190822140314801-1842879152.png" class="topic_img" alt=""/></a>
+                        苹果公司分享了一份新的支持文档，内容是指导人们如何制作属于自己的面部防护罩，需要注意的是文档中明确表示制作方法只能由专业人士来进行。在支持文档中，苹果指定了制作护脸板、额带和松紧带所需的材料及其各自的厚度值。 此外，该支持文件还强调了激光切割、水流切割和模具切割是可以用于制作面罩的潜在方法。 苹果公
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/660074#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">57 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%8B%B9%E6%9E%9C/" class="gray">苹果</a> </span>
+                        发布于 <span class="gray">2020-04-19 11:00</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_660072">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(660072,'agree')">
+                        <span id="digg_num_660072" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_660072" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/660072/" target="_blank">在线视频平台大数据杀熟成惯例 买VIP就活该被宰？</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_231.htm"><img src="//images2015.cnblogs.com/news_topic/20161221105257057-1923673825.png" class="topic_img" alt=""/></a>
+                        “同样的 VIP 服务，用不同手机购买的价钱竟然不一样。”不少网友认为这是“大数据杀熟”，你怎么看呢？实际上，在线视频平台的 VIP 服务猫腻还很多，不信，你看！某在线视频网站一年 VIP 价格，在不同设备上购买价格相差 30 元。 同样的 VIP，用 iPhone 充值比安卓手机贵 近日，记者调查
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/660072#comment" class="gray" target="_blank">评论(1)</a>
+                        </span><span class="view">182 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E4%BC%98%E9%85%B7/" class="gray">优酷</a> <a href="/n/tag/%E7%88%B1%E5%A5%87%E8%89%BA/" class="gray">爱奇艺</a> <a href="/n/tag/%E6%90%9C%E7%8B%90/" class="gray">搜狐</a> </span>
+                        发布于 <span class="gray">2020-04-19 10:55</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_660071">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(660071,'agree')">
+                        <span id="digg_num_660071" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_660071" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/660071/" target="_blank">疫情冲击波：蘑菇街裁员14% 有富士康员工开始送外卖</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_390.htm"><img src="https://img2018.cnblogs.com/news_topic/20181213115501712-223816405.png" class="topic_img" alt=""/></a>
+                        自新冠肺炎疫情爆发以来，全球各行各业关于“裁员”的消息不绝于耳。近日，360，小米，字节跳动等“大厂”均被传出裁员的消息，之后也均被否认。但对有些行业来说，裁员、降薪正在发生。 电商蘑菇街裁员 14% 据多家媒体报道，时尚电商蘑菇街（NYSE：MOGU）已于 4 月 17 日向全体员工宣布新一轮裁员
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/660071#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">157 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/%E8%98%91%E8%8F%87%E8%A1%97/" class="gray">蘑菇街</a> <a href="/n/tag/%E5%AF%8C%E5%A3%AB%E5%BA%B7/" class="gray">富士康</a> </span>
+                        发布于 <span class="gray">2020-04-19 10:48</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_660070">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(660070,'agree')">
+                        <span id="digg_num_660070" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_660070" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/660070/" target="_blank">纽约州颁布新行政令：可通过Zoom等应用领取结婚证</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1389.htm"><img src="https://img2018.cnblogs.com/news_topic/20190327093101932-1819544169.png" class="topic_img" alt=""/></a>
+                        疫情期间，美国纽约州现在允许通过 FaceTime 等视频会议平台举办婚礼。根据最新发布的行政令，在疫情期间新人可以通过视频方式领取结婚证。本周六，纽约州州长科莫表示：“你可以通过 Zoom 等会议应用程序来领取结婚证，以及完成婚礼。” 因为疫情的原因，纽约州的婚姻事务管理局(Marriages b
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/660070#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">43 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/Zoom/" class="gray">Zoom</a> </span>
+                        发布于 <span class="gray">2020-04-19 10:40</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_660069">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(660069,'agree')">
+                        <span id="digg_num_660069" class="diggnum">1</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_660069" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/660069/" target="_blank">NASA官宣：SpaceX龙飞船5月27日载人试飞首秀</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_345.htm"><img src="https://img2018.cnblogs.com/news_topic/20190528103402943-154105954.png" class="topic_img" alt=""/></a>
+                        澎湃新闻记者张静 自 2011 年美国航天飞机退役以来，美国运送宇航员往返空间站的工具全部“仰仗”俄罗斯飞船。不过，这一现状有望在 6 周后改变。 美国航天局（NASA）日前在官网上宣布，NASA 宇航员 Robert Behnken 和 Douglas Hurley 将于美国东部时间 5 月 27
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/660069#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">57 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/NASA/" class="gray">NASA</a> </span>
+                        发布于 <span class="gray">2020-04-19 10:37</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+            <div class="news_block" id="entry_660068">
+                <div class="action">
+                    <div class="diggit" onclick="VoteNews(660068,'agree')">
+                        <span id="digg_num_660068" class="diggnum">0</span>
+                    </div>
+                    <div class="clear"></div>
+                    <div id="digg_tip_660068" class="digg-tip"></div>
+                </div>
+                <!--end: action -->
+                <div class="content">
+                    <h2 class="news_entry">
+                        <a href="/n/660068/" target="_blank">谷歌正重新评估今年投资计划 可能削减云业务支出</a>
+                    </h2>
+                    <div class="entry_summary" style="display: block;">
+                        <a href="/n/topic_1.htm"><img src="https://img2018.cnblogs.com/news_topic/20190730073028742-506112123.png" class="topic_img" alt=""/></a>
+                        谷歌在本周三表示，正重新评估今年投资计划，可能削减云业务支出。 受疫情影响，谷歌需要削减开支。谷歌母公司 Alphabet 首席执行官皮查伊在致员工的邮件中表示，将“重新调整”对数据中心和机器等领域的投资重点和投资步伐。 不过，谷歌云 CEO 此前曾对员工定下目标，“在 5 年内至少要做成全球排名第
+                    </div>
+                    <div class="entry_footer">
+                        <a href="//home.cnblogs.com/u/itwriter/" class="gray" target="_blank">
+                            itwriter
+                        </a>投递&nbsp;
+                        <span class="comment">
+                            <a href="/n/660068#comment" class="gray" target="_blank">评论(0)</a>
+                        </span><span class="view">48 人浏览</span>
+                        <span class="tag"> <a href="/n/tag/Google/" class="gray">Google</a> </span>
+                        发布于 <span class="gray">2020-04-19 10:25</span>
+                    </div>
+                    <!--end: entry_footer -->
+                </div>
+                <!--end: content -->
+                <div class="clear">
+                </div>
+            </div>
+            <!--end: news_block -->
+            <div class="clear">
+            </div>
+    </div>
+    <div class="pager"><a href="/n/page/5/">&lt; Prev</a><a href="/" class="p_1 first">1</a><a href="/n/page/2/" class="p_2 middle">2</a><a href="/n/page/3/" class="p_3 middle">3</a><a href="/n/page/4/" class="p_4 middle">4</a><a href="/n/page/5/" class="p_5 middle">5</a><a href="/n/page/6/" class="p_6 current">6</a><a href="/n/page/7/" class="p_7 middle">7</a><a href="/n/page/8/" class="p_8 middle">8</a><a href="/n/page/9/" class="p_9 middle">9</a><a href="/n/page/10/" class="p_10 middle">10</a><span class="ellipsis">···</span><a href="/n/page/100/" class="p_100 last">100</a><a href="/n/page/7/">Next &gt;</a></div>
+</div>
+
+
+<script type="text/javascript">
+    $(function () {
+        LoadNewsCategory("NewsCategoryId",11,0);
+        //新闻列表-右侧编辑推荐新闻
+        CommonLoadNews("/NewsAjax/GetRecommendNews", "RecommendNewsId", 7);
+        //新闻列表-右侧今日新闻排行
+        CommonLoadNews("/NewsAjax/GetHotNews", "HotNewsId", 10);
+        //新闻列表-右侧24小时推荐排行
+        CommonLoadNews("/NewsAjax/GetHotByDiggCount", "HotByDiggCountId", 7);
+        //新闻列表-右侧热门IT新闻
+        CommonLoadNews("/NewsAjax/GetRecentHotNews", "RecentHotNewsId", 10);
+        //新闻列表-右侧最新评论
+        LoadSideComments("NewsIndexCommentsId", 15);
+        CheckAudit();
+        LoadIndexSideInfo();
+    });
+</script>
+        <div id="sideright">
+            
+    <div style="margin-top:25px;">
+        <span id="lbAuditTips" style="display:none;"></span>
+        <div class="news_home_navlink">
+            <div id="rss_sub_top" class="rss_sub">
+                <a href="http://feed.cnblogs.com/news/rss" title="博客园IT新闻RSS订阅">
+                    <img src="//common.cnblogs.com/images/icon_rss.gif" alt="RSS订阅"/>
+                </a>
+            </div>
+            <div style="line-height:30px;">
+                &gt; <a href="/n/publish/" class="big redlink">投递新闻</a><br/>
+                &gt; <a href="/n/date/" class="big">新闻日历</a><br/>
+                &gt; <a href="/n/topiclist/" class="big">新闻主题</a><br/>
+            </div>
+        </div>
+        <div class="clear">
+        </div>
+        <br/>
+        <div id="side_right_search">
+            <input type="text" id="google_search_q" size="27" class="side_right_search_q" onkeydown="return google_search_enter(event);"/>
+            <input type="submit" name="sa" value="搜索新闻" class="side_right_search_sa" onclick="return google_search();"/>
+        </div>
+<div class="side_block">
+    <div class="a4content" id="e2">
+        <div id="div-gpt-ad-1533633736227-1" style="height:250px; width:300px;">
+            <script>
+                googletag.cmd.push(function () { googletag.display('div-gpt-ad-1533633736227-1'); });
+            </script>
+        </div>
+    </div>
+</div>        <div class="side_block" id="cate_news">
+            <h3 class="title_yellow">
+                新闻类别
+            </h3>
+            <div class="indent" id="NewsCategoryId">
+            </div>
+        </div>
+        <div id="HotNews1_panelToday">
+            <div class="side_block" id="last_news">
+                <h3 class="title_blue">
+                    今日新闻排行
+                </h3>
+                <ul class="topnews block_list bt" id="HotNewsId">
+                </ul>
+            </div>
+        </div>
+        <div class="side_block">
+            <h3 class="title_yellow">
+                编辑推荐新闻
+            </h3>
+            <ul class="topnews block_list bt" id="RecommendNewsId">
+            </ul>
+        </div>
+        <div id="HotNews1_panelDiggTop">
+            <div class="side_block" id="Div1">
+                <h3 class="title_green">
+                    24小时推荐排行
+                </h3>
+                <ul class="topnews block_list bt" id="HotByDiggCountId">
+                </ul>
+            </div>
+        </div>
+        <div class="side_block" id="hot_news">
+            <h3 class="title_red">
+                热门IT新闻
+            </h3>
+            <ul class="topnews block_list bt" id="RecentHotNewsId">
+            </ul>
+        </div>
+<div class="side_block">
+    <div id="e3">
+        <div id="div-gpt-ad-1533633736227-2" style="height:250px; width:300px;">
+            <script>
+                googletag.cmd.push(function () { googletag.display('div-gpt-ad-1533633736227-2'); });
+            </script>
+        </div>
+    </div>
+</div>        <div class="side_block">
+            <h3 class="title_green">
+                最新评论
+            </h3>
+            <ul class="block_list" id="NewsIndexCommentsId">
+            </ul>
+            <a href="/Comment">
+                <img src="/Images/more_comment.gif" title="更多最新评论" style="float: right; margin: 7px;" alt="" />
+            </a>
+            <div style="clear: both;">
+            </div>
+        </div>
+        <a name="more"></a>
+        <div id="rss_sub_bottom" class="rss_sub">
+            <a href="http://feed.cnblogs.com/news/rss" title="博客园IT新闻RSS订阅">
+                <img src="//common.cnblogs.com/images/icon_rss_news.gif" alt="RSS订阅"/>
+            </a>
+            <a href="//news.cnblogs.com/m" rel="nofollow" title="博客园新闻频道手机版">
+                <img src="/Images/ico_ing_cellphone.gif" alt="手机版" />
+            </a>
+        </div>
+    </div>
+
+        </div>
+        <div class="clear">
+        </div>
+        <div id="footer">
+            <div id="foot">
+                <a href="//www.cnblogs.com/AboutUS.aspx">关于博客园</a>
+                <a href="//www.cnblogs.com/ContactUs.aspx">联系我们</a>
+                <a href="//www.cnblogs.com/ad.aspx">广告服务</a>
+                <span>&copy;2004-2020</span>
+                <a href="//www.cnblogs.com">博客园</a>
+                <span id="powered_by">Powered by .NET Core on Kubernetes</span>
+            </div>
+            <div id="footMobile" style="display:none;">
+                <span>&copy;2004-2020</span>&nbsp;<a href="//www.cnblogs.com">博客园</a>
+            </div>
+        </div>
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-476124-8']);
+            _gaq.push(['_trackPageview']);
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+    </div>
+</body>
+</html>
