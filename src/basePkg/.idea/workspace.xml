@@ -2,11 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce4d31b3-926d-4218-a62f-a14caf62d0b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/myHttpServer/core/MyRouter.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myHttpServer/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myServer/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myServer/status.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myServer/util.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myTest/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/appmain/files/1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appmain/files/10" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/appmain/files/2" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/appmain/files/3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/appmain/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/appmain/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appmain/files/4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appmain/files/5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appmain/files/6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appmain/files/7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appmain/files/8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appmain/files/9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appmain/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appmain/test/news" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appmain/test/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/IService.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/User.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/IServer.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/News.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/User.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/servicesb/IServer.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/servicesb/News.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/servicesb/User.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/submodels/SportsNews.go" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +44,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Go File" />
+        <option value="Go Application" />
       </list>
     </option>
   </component>
@@ -35,13 +62,14 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/appmain/main.go" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/myHttpServer" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -54,17 +82,42 @@
       <recent name="F:\my\exercise\go\base\src\basePkg\appmain" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="go build basePkg main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.myHttpServer">
+    <configuration name="client" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="basePkg" />
       <working_directory value="$PROJECT_DIR$/" />
       <go_parameters value="-i" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/|$PROJECT_DIR$/appmain/main.go" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$/" />
       <package value="basePkg" />
-      <directory value="$PROJECT_DIR$/" />
+      <directory value="$PROJECT_DIR$/myClient" />
       <method v="2" />
     </configuration>
+    <configuration name="myHttpServer" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="basePkg" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$/" />
+      <package value="basePkg" />
+      <directory value="$PROJECT_DIR$/myHttpServer" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="basePkg" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$/" />
+      <package value="basePkg" />
+      <directory value="$PROJECT_DIR$/myServer" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.client" />
+      <item itemvalue="Go Build.server" />
+      <item itemvalue="Go Build.myHttpServer" />
+    </list>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -82,10 +135,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587437707339">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587535847550">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1587437707339" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1587535847550" />
     <state x="530" y="202" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587452470494">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -98,10 +151,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="472" y="44" key="#go_build_basePkg_main.go/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1587437712723" />
-    <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1587437706158">
+    <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1587535840659">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1587437706158" />
+    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1587535840659" />
+    <state width="1493" height="189" key="GridCell.Tab.0.bottom" timestamp="1587543903782">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="189" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1587543903782" />
+    <state width="1493" height="189" key="GridCell.Tab.0.center" timestamp="1587543903782">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="189" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1587543903782" />
+    <state width="1493" height="189" key="GridCell.Tab.0.left" timestamp="1587543903782">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="189" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1587543903782" />
+    <state width="1493" height="189" key="GridCell.Tab.0.right" timestamp="1587543903782">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="189" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1360.728@0.0.1536.824" timestamp="1587543903782" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1587451612212">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
