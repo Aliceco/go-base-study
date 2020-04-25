@@ -24,7 +24,7 @@ func (this MyRouter) Get(path string, f http.HandlerFunc)  {
 
 func (this MyRouter) Post(path string, f http.HandlerFunc)  {
 	if this.Mapping["POST"]==nil {
-		this.Mapping["GET"]=make(map[string]http.HandlerFunc)
+		this.Mapping["POST"]=make(map[string]http.HandlerFunc)
 	}
-	this.Mapping["GET"][path] = f
+	this.Mapping["POST"][path] = f
 }
